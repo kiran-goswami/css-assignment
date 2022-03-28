@@ -1,0 +1,54 @@
+h1{
+    color:red;
+    font-family:'Times New Roman', Times, serif;
+}
+h2{
+    color:red;
+    font-size:30px;
+    font-style:italic;
+}
+ol{
+    color:brown;
+    font-size:20px;
+    font-weight:bold;
+}
+h3{
+    font-size:30px;
+    color:red;
+    font-style:italic;
+}
+ul{
+    color:brown;
+    font-size:20px;
+    font-weight:bold;
+}
+.test{
+    color:brown;
+    font-size:20px;
+}
+.kiran{
+    color:brown;
+    font-size:20px;
+}
+.aira{
+    color:brown;
+    font-size:20px;
+}
+.giri{
+    color:brown;
+    font-size:20px;
+    font-style:italic;
+    background-color:yellow;
+    display:inline;
+    /* text-decoration:none; */
+}
+a{
+    text-decoration:none;
+}
+.txt{
+    font-style:italic;
+    text-decoration:underline;
+}
+ul{
+    letter-spacing:5px;
+}
